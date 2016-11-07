@@ -1,4 +1,4 @@
-# text_officals
+# text_officials
 android texting aid in support of the efforts of the Standing Rock Soiux tribe and all the Water Protectors that are opposing the dakota access pipeline
 
 NO DAPL!!!
