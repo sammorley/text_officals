@@ -31,7 +31,6 @@ This script should work on any android device.
 
 Some users might need to make a change on line 8 of the no_dapl.py script.  You will only need to do this if your phone downloads files to a different path then the one specificed in the script.  This change can be made very easily right inside of the editor in Qpython3.
 
-If you have questions please let me know.
 
 
 
