@@ -1,6 +1,8 @@
 # text_officials in Support of the Standing Rock Sioux Tribe
 
-Follow these instructions to text your message of support for the Standing Rock Sioux Tribe directly to members of the North Dakota House and Senate.
+For Android phone users only
+
+Follow these instructions to programmatically text your message of support for the Standing Rock Sioux Tribe directly to members of the North Dakota House and Senate.
 
 NO DAPL!!!
 
